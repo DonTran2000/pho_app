@@ -1,6 +1,6 @@
 *APP PHỞ VIỆT
-Language : Vietnamese
+- Language : Vietnamese
 - Ai muốn truy cập vào thì hãy bấm vao link : https://phoviet.hstn.me/
 
-Language : Japanese
+- Language : Japanese
 -　このアプリをアクセスしてみたいなら、このリンクをクリックしてください：　https://phoviet.hstn.me/
