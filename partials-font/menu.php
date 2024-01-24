@@ -10,6 +10,7 @@
 
     <!-- Link our CSS file -->
     <link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" href="images/icon.png" type="image/x-icon">
 </head>
 
 <body>
